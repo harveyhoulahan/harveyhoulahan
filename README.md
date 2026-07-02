@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Harvey.
 
-<!--
-**harveyhoulahan/harveyhoulahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an ML Engineer focused on spatial data, simulations, and applied AI. I currently build production systems for climate tech, energy, and supply-chain transparency.
 
-Here are some ideas to get you started:
+**What I do:**
+* Train and deploy models for geospatial analysis and time-series forecasting.
+* Build high-performance WebGPU simulations (fluids, particle life, spatial systems).
+* Architect end-to-end ML pipelines (PyTorch, CoreML, PostGIS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Focus:**
+Building *Catchment*, a browser-native neural Earth engine with shallow-water solvers, and pushing the boundaries on in-browser ML inference.
+
+[View my full portfolio & interactive demos at hjhportfolio.com](https://hjhportfolio.com)
