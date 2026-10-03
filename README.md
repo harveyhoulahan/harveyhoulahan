@@ -1,13 +1,17 @@
-### Hi, I'm Harvey.
+### Harvey Houlahan
 
-I'm an ML Engineer focused on spatial data, simulations, and applied AI. I currently build production systems for climate tech, energy, and supply-chain transparency.
+Lead Agentic Engineer at Viseera, Brisbane. I build production AI agents and the data systems underneath them.
 
-**What I do:**
-* Train and deploy models for geospatial analysis and time-series forecasting.
-* Build high-performance WebGPU simulations (fluids, particle life, spatial systems).
-* Architect end-to-end ML pipelines (PyTorch, CoreML, PostGIS).
+- **Agents:** self-hosted fine-tuned LLMs, permission-checked tools, evaluation
+- **Data:** Postgres platforms, incremental sync and crawling pipelines
+- **Geospatial ML:** computer vision on LiDAR and satellite imagery
+- **Simulation:** WebGPU renderers and agent-based systems in the browser
 
-**Current Focus:**
-Building *Catchment*, a browser-native neural Earth engine with shallow-water solvers, and pushing the boundaries on in-browser ML inference.
+**Research**
+- [Galah](https://hjhportfolio.com/galah): scaling laws for small byte-level language models
+- [Fixed-compute pretraining](https://hjhportfolio.com/pretraining): 28 experiments, validation loss 1.75 → 1.18
+- 1st of 156 teams, Monash Deep Learning Kaggle competition
 
-[View my full portfolio & interactive demos at hjhportfolio.com](https://hjhportfolio.com)
+Python · PyTorch · FastAPI · PostgreSQL · TypeScript · WebGPU
+
+[hjhportfolio.com](https://hjhportfolio.com)
